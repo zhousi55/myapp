@@ -1,0 +1,75 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+a, a:hover {
+    text-decoration: none;
+}
+.mainDiv{
+	width:1260px;
+	height:450px;
+	margin:0 auto;
+}
+.textDiv{
+	margin-top: 30px;
+	height: 100px;
+}
+.textDiv2{
+	margin-top: 90px;
+	height: 280px;
+}
+.baseTitlebig{
+	font-size: 38px
+}
+.baseTitle{
+	font-size: 36px
+}
+.baseTitle1{
+	font-size: 24px;
+}
+.baseTitle2{
+	font-size: 18px;
+}
+.baseTitle11{
+	font-size: 28px;
+}
+.subDiv{
+	height: 60px;
+}
+.subDiv input{
+	width: 15px;
+	height: 15px;
+	cursor: pointer;
+}
+.picDiv .btnDiv{
+	width: 1200px;
+}
+.picDiv div{
+	float: left;
+	margin-left: 20px;
+	margin-top: 15px;
+}
+.btnDiv div{
+	width: 197px;
+}
+.btnDiv input{
+	height: 30px;
+	width: 60px;
+	font-size: 26px;
+	line-height: 30px;
+	cursor: pointer;
+	margin-left: 77px;
+	margin-top: -10px;
+}
+.doneDiv{
+	float: right;
+    margin-top: -88px;
+    margin-right: 83px;
+}
+.doneDiv input{
+	height: 40px;
+	width: 70px;
+	font-size: 26px;
+	line-height: 40px;
+	cursor: pointer;
+}
